@@ -18,9 +18,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65"/>
 </div>
 
-<h3 align="center">Backend &amp; API</h3>
+<h3 align="center">Backend & API; API</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65"/>
+</div>
+
+<h3 align="center">Frontend & Mobile; API</h3>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="65" height="65" />
 </div>
 
 <h3 align="center">Database / Infra</h3>
@@ -41,7 +46,7 @@
 
 <hr/>
 
-<h2 align="center">🏅 Competitions & Experiences</h2>
+<h2 align="center">🧩 Projects</h2>
 
 <h3>🗺️ 애견 동반 가능한 여행지 추천 웹 애플리케이션 </h3>
 > 사용자가 애견 동반 가능 여행지를 확인할 수 있는 웹 서비스입니다.<br/>
@@ -54,6 +59,11 @@
 - **역할 및 기여도** : 팀장 / 프론트엔드 및 백앤드 (50%)  
 - [👉 프로젝트 발표자료 바로가기](https://docs.google.com/presentation/d/1hYEqx4hVO2WHo1uhR6nNQYrD2qtl_bJO/edit?usp=drive_link&ouid=100501040939741658982&rtpof=true&sd=true)  
 - [👉 시연 영상 보기](https://www.youtube.com/watch?v=fpwNBkWgSuc)
+
+<hr/>
+
+<h2 align="center">🏅 Competitions & Experiences</h2>
+
 <hr/>
 
 <h2 align="center">📫 Contact</h2>
