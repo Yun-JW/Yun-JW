@@ -1,4 +1,4 @@
-## About Me 👋
+<h2 align="center">👋 About Me</h2>
 안녕하세요! 도전을 두려워하지 않는 개발자 윤지욱입니다.  
 저는 화학공학과와 소프트웨어학과를 복수전공하여 성장, 도전, 배움이라는 가치를 중심으로 개발자의 길을 걸어가고 있습니다.  
 
@@ -38,3 +38,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="65" height="65"/>
 </div>
+
+<hr/>
+
+<h2 align="center">🏅 Competitions & Experiences</h2>
+
+<h3>🗺️ 애견 동반 가능한 여행지 추천 웹 애플리케이션 </h3>
+> 사용자가 애견 동반 가능 여행지를 확인할 수 있는 웹 서비스입니다.<br/>
+> 원하는 지역을 선택하면 해당 지역의 관광지를 **애견 동반 가능 / 일부 가능 / 불가능** 3가지 마커로 확인할 수 있습니다.<br/>
+> 마커 클릭 시 관광지 기본 정보와 애견 동반 관련 정보를 제공합니다.<br/>
+> 또한 **마이페이지, 리뷰, 찜** 등 사용자 편의 기능도 포함되어 있습니다.
+
+- **개발 기간** : 2025.04 ~ 2025.05  
+- **기술 스택** : Spring Boot, MySQL, REST API, Vue.js, notion  
+- **역할 및 기여도** : 팀장 / 프론트엔드 및 백앤드 (50%)  
+- [👉 프로젝트 발표자료 바로가기](https://drive.google.com/file/d/1JwtqMm63ThtxcITAjvNMNelAYld4hr2a/view?usp=sharing)  
+- [👉 시연 영상 보기](https://www.youtube.com/watch?v=zj-pUPFEg_Q&ab_channel=%EC%A0%95%ED%95%84%EA%B5%90%5B%EB%B)
+<hr/>
+
+<h2 align="center">📫 Contact</h2>
