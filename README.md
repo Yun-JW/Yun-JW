@@ -7,17 +7,33 @@
 
 현재는 WebRTC 기반의 실시간 화상 회의 서비스 개발에 참여하며, 기술적 깊이와 사용자 경험을 동시에 고려하는 개발자가 되기 위해 꾸준히 도전하고 있습니다.
 
-<!--
-**Yun-JW/Yun-JW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+## 🛠 Tech Stack
+### **Languages**
+<div>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65"/>
+</div>
 
-Here are some ideas to get you started:
+### **Frontend & Mobile**
+<div>
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/vue2.png" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/flutter.png" width="65" height="65" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Backend & API**
+<div>
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/springboot.png" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
+</div>
+
+### **Database / Infra**
+<div>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/firebase.png" width="65" height="65" />
+</div>
