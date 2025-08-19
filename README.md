@@ -9,8 +9,9 @@
 
 <div align="center">
 ## 🛠 Tech Stack
+  
 ### **Languages**
 <div>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="65" height="65"/>
 </div>
