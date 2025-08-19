@@ -52,8 +52,8 @@
 - **개발 기간** : 2025.04 ~ 2025.05  
 - **기술 스택** : Spring Boot, MySQL, REST API, Vue.js, notion  
 - **역할 및 기여도** : 팀장 / 프론트엔드 및 백앤드 (50%)  
-- [👉 프로젝트 발표자료 바로가기](https://drive.google.com/file/d/1JwtqMm63ThtxcITAjvNMNelAYld4hr2a/view?usp=sharing)  
-- [👉 시연 영상 보기](https://www.youtube.com/watch?v=zj-pUPFEg_Q&ab_channel=%EC%A0%95%ED%95%84%EA%B5%90%5B%EB%B)
+- [👉 프로젝트 발표자료 바로가기]()  
+- [👉 시연 영상 보기](https://www.youtube.com/watch?v=fpwNBkWgSuc)
 <hr/>
 
 <h2 align="center">📫 Contact</h2>
