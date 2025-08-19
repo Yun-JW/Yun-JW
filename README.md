@@ -11,25 +11,25 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-### **Languages**
+<h3 align="center">Languages</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65"/>
 </div>
 
-### **Backend & API**
+<h3 align="center">Backend &amp; API</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65"/>
 </div>
 
-### **Database / Infra**
+<h3 align="center">Database / Infra</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65"/>
 </div>
 
-### **DevOps & Tools**
+<h3 align="center">DevOps &amp; Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="65" height="65"/>
