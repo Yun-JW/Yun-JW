@@ -19,12 +19,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html5" width="65" height="65"/>
 </div>
 
-<h3 align="center">Backend & API; API</h3>
+<h3 align="center">Backend & API</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65"/>
 </div>
 
-<h3 align="center">Frontend & Mobile; API</h3>
+<h3 align="center">Frontend & Mobile</h3>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="65" height="65" />
 </div>
