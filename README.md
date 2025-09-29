@@ -53,6 +53,7 @@
 <h2 align="center">🧩 Projects</h2>
 
 <h3>💰 부모와 함께하는 자녀의 금융습관 형성 모바일 애플리케이션 </h3>
+
 > 사용자(자녀)가 부모에게 빌리기(대출)을 할 수 있습니다.<br/>
 > 사용자(자녀)가 하나의 통장에서 여러개의 모으기 상자(저축 가상 계좌)를 만들 수 있습니다.<br/>
 > 사용자(자녀)가 자신의 통장에 연결된 가상 카드로 qr결제를 할 수 있습니다.<br/>
@@ -63,6 +64,8 @@
 - **기술 스택** : Spring Boot, MySQL, REST API, Redis, Amazon S3
 - **역할** : DB 설계 및 백앤드 개발
 - **협업 인원 및 기여도** : 6명 / 20%
+- [👉 프로젝트 발표자료 바로가기](https://drive.google.com/file/d/1Uw2gapBiiP2K9Fam_ezOOet1-LlcGQBk/view?usp=sharing)
+- [👉 시연 영상 보기](https://drive.google.com/file/d/1A2bktW7N_5bP-0_WzBSpSIQ047Ghz4xO/view?usp=sharing)
 
 <br/><br/><br/>
 
