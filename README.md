@@ -66,6 +66,7 @@
 - **협업 인원 및 기여도** : 6명 / 20%
 - [👉 프로젝트 발표자료 바로가기](https://docs.google.com/presentation/d/1pcTB8XYNn44W4k3oek-c06v-qzuwudrD/edit?usp=sharing&ouid=100501040939741658982&rtpof=true&sd=true)  
 - [👉 시연 영상 보기](https://www.youtube.com/watch?v=ha1RtZ4cx0k)
+- [👉 프로젝트 GITHUB 바로가기](https://github.com/Reciplay)
 
 <br/><br/><br/>
 
