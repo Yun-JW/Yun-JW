@@ -117,11 +117,11 @@
 
 <hr/>
 
+<h2 align="center">🏅 Competitions & Experiences</h2>
+
+<hr/>
+
 <h2 align="center">📫 Contact</h2>
 
 - Email : wl202wl@naver.com, jiuk202@gmail.com
 - GitHub : https://github.com/Yun-JW
-
-<hr/>
-
-<h2 align="center">🏅 Competitions & Experiences</h2>
