@@ -9,38 +9,41 @@
 
 <hr/>
 
-<h2 align="center">🛠 Tech Stack</h2>
-
-<h3 align="center">Languages</h3>
+<!-- ✅ Tech Stack만 센터 정렬 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html5" width="65" height="65"/>
+  <h2>🛠 Tech Stack</h2>
+
+  <h3>Languages</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html5" width="65" height="65"/>
+  </div>
+
+  <h3>Backend & API</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65"/>
+  </div>
+
+  <h3>Frontend & Mobile</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="65" height="65" />
+  </div>
+
+  <h3>Database & Infra</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="65" height="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="Redis" width="65" height="65"/>
+  </div>
+
+  <h3>DevOps &amp; Tools</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="65" height="65"/>
+  </div>
 </div>
-
-<h3 align="center">Backend & API</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65"/>
-</div>
-
-<h3 align="center">Frontend & Mobile</h3>
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="65" height="65" />
-</div>
-
-<h3 align="center">Database & Infra</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="Redis" width="65" height="65"/>
-          
-</div>
-
-<h3 align="center">DevOps &amp; Tools</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon교 졸업
+<!-- ✅ 여기서부터 다시 왼쪽 정렬 -->
 
 <hr/>
 
@@ -54,7 +57,6 @@
 
 - Email : wl202wl@naver.com, jiuk202@gmail.com
 - GitHub : https://github.com/Yun-JW
-
 
 <hr/>
 
