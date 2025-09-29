@@ -52,6 +52,18 @@
 
 <h2 align="center">🧩 Projects</h2>
 
+<h3>💰 부모와 함께하는 자녀의 금융습관 형성 모바일 애플리케이션 </h3>
+>사용자(자녀)가 부모에게 빌리기(대출)을 할 수 있습니다.<br/>
+>사용자(자녀)가 하나의 통장에서 여러개의 모으기 상자(저축 가상 계좌)를 만들 수 있습니다.<br/>
+>사용자(자녀)가 자신의 통장에 연결된 가상 카드로 qr결제를 할 수 있습니다.<br/>
+>사용자(부모)가 BLE방식으로 휴대폰 태깅을 통해 손쉽게 용돈 이체를 할 수 있습니다.<br/>
+>사용자(부모)가 자녀의 결제 장소를 확인할 수 있습니다.<br/>
+>사용자(부모가) 자녀의 월 별 소비패턴 분석 및 ai 피드백을 확인할 수 있습니다.<br/>
+- **개발 기간** : 2025.08 ~ 2025.09  
+- **기술 스택** : Spring Boot, MySQL, REST API, Redis, Amazon S3  
+- **역할** : DB 설계 및 백앤드 개발 
+- **협업 인원 및 기여도** : 6명 / 20%
+
 <h3>🧑‍🍳 실시간 요리 class 웹 애플리케이션 </h3>
 
 > 사용자가 온라인 요리 class를 강사로 개설하거나 학생으로 수강할 수 있는 웹 서비스입니다.<br/>
@@ -61,7 +73,7 @@
 > 찜, 리뷰, 구독, 마이페이지, 강사 등록 등 학생의 편의 기능이 포함되어 있습니다.<br/>
 > 강사 관리, 강좌 관리, 회원 관리등 관리자의 편의 기능이 포함되어 있습니다.<br/>
 - **개발 기간** : 2025.07 ~ 2025.08  
-- **기술 스택** : Spring Boot, MySQL, REST API, Notion, Git Lab, Erd Cloud, Swagger, Jira  
+- **기술 스택** : Spring Boot, MySQL, REST API, Amazon S3 
 - **역할** : DB 설계 및 백앤드 개발 
 - **협업 인원 및 기여도** : 6명 / 20%
 - [👉 프로젝트 발표자료 바로가기](https://docs.google.com/presentation/d/1pcTB8XYNn44W4k3oek-c06v-qzuwudrD/edit?usp=sharing&ouid=100501040939741658982&rtpof=true&sd=true)  
@@ -77,7 +89,7 @@
 > 마커 클릭 시 관광지 기본 정보와 애견 동반 관련 정보를 제공합니다.<br/>
 > 마이페이지, 리뷰, 찜 등 사용자 편의 기능이 포함되어 있습니다.<br/>
 - **개발 기간** : 2025.04 ~ 2025.05  
-- **기술 스택** : Spring Boot, MySQL, REST API, Vue.js, Notion, Git Lab  
+- **기술 스택** : Spring Boot, MySQL, REST API, Vue.js 
 - **역할** : 팀장 / 프론트엔드 및 백앤드 (50%)
 - **협업 인원 및 기여도** : 2명 / 50%
 - [👉 프로젝트 발표자료 바로가기](https://docs.google.com/presentation/d/1hYEqx4hVO2WHo1uhR6nNQYrD2qtl_bJO/edit?usp=drive_link&ouid=100501040939741658982&rtpof=true&sd=true)  
