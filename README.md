@@ -40,13 +40,21 @@
 <h3 align="center">DevOps &amp; Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="90" height="70"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon교 졸업
+
+<hr/>
+
+<h2 align="center">🪖 군 복무</h2>
+
+- 2016.11 ~ 2018.08 육군 현역 복무
+
+<hr/>
+
+<h2 align="center">📫 Contact</h2>
+
+- Email : wl202wl@naver.com, jiuk202@gmail.com
+- GitHub : https://github.com/Yun-JW
+
 
 <hr/>
 
@@ -100,12 +108,6 @@
 - [👉 프로젝트 발표자료 바로가기](https://docs.google.com/presentation/d/1hYEqx4hVO2WHo1uhR6nNQYrD2qtl_bJO/edit?usp=drive_link&ouid=100501040939741658982&rtpof=true&sd=true)  
 - [👉 시연 영상 보기](https://www.youtube.com/watch?v=fpwNBkWgSuc)
 
-
-
 <hr/>
 
 <h2 align="center">🏅 Competitions & Experiences</h2>
-
-<hr/>
-
-<h2 align="center">📫 Contact</h2>
