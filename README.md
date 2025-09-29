@@ -47,19 +47,6 @@
 
 <hr/>
 
-<h2 align="center">🪖 군 복무</h2>
-
-- 2016.11 ~ 2018.08 육군 현역 복무
-
-<hr/>
-
-<h2 align="center">📫 Contact</h2>
-
-- Email : wl202wl@naver.com, jiuk202@gmail.com
-- GitHub : https://github.com/Yun-JW
-
-<hr/>
-
 <h2 align="center">🧩 Projects</h2>
 
 <h3>💰 부모와 함께하는 자녀의 금융습관 형성 모바일 애플리케이션 </h3>
@@ -109,6 +96,19 @@
 - **협업 인원 및 기여도** : 2명 / 50%
 - [👉 프로젝트 발표자료 바로가기](https://docs.google.com/presentation/d/1hYEqx4hVO2WHo1uhR6nNQYrD2qtl_bJO/edit?usp=drive_link&ouid=100501040939741658982&rtpof=true&sd=true)  
 - [👉 시연 영상 보기](https://www.youtube.com/watch?v=fpwNBkWgSuc)
+
+<hr/>
+
+<h2 align="center">🪖 군 복무</h2>
+
+- 2016.11 ~ 2018.08 육군 현역 복무
+
+<hr/>
+
+<h2 align="center">📫 Contact</h2>
+
+- Email : wl202wl@naver.com, jiuk202@gmail.com
+- GitHub : https://github.com/Yun-JW
 
 <hr/>
 
