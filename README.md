@@ -168,8 +168,9 @@
 
 <h2 align="center">🎓 학력 및 교육</h2>
 
+- 2025.12 삼성 청년 SW 아카데미(SSAFY) 13기 수료
 - 2025.02 경북대학교 글로벌소프트웨어학과 & 에너지화학공학과 졸업
-- 2025.01 SSAFY 삼성 청년 SW 아카데미 13기 입과
+- 2025.01 삼성 청년 SW 아카데미(SSAFY) 13기 입과
 - 2015.02 부산 남산고등학교 졸업
 
 <hr/>
@@ -180,7 +181,33 @@
 
 <hr/>
 
-<h2 align="center">📚 자격증</h2>
+<h2 align="center">📚 Certifications</h2>
+
+<table align="center">
+  <tr>
+    <th>자격증</th>
+    <th>등급 / 점수</th>
+    <th>취득일</th>
+  </tr>
+
+  <tr>
+    <td>정보처리기사</td>
+    <td>-</td>
+    <td>2025.12.24</td>
+  </tr>
+
+  <tr>
+    <td>SQLD(SQL 개발자)</td>
+    <td>-</td>
+    <td>2025.12.12</td>
+  </tr>
+
+  <tr>
+    <td>TOEIC Speaking</td>
+    <td>IM3 (130)</td>
+    <td>2026.04.24</td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -190,5 +217,6 @@
 
 <h2 align="center">📫 Contact</h2>
 
-- Email : wl202wl@naver.com, jiuk202@gmail.com
+- Email : wl202wl@naver.com
 - GitHub : https://github.com/Yun-JW
+- Notion Portfolio : https://www.notion.so/2bc76b32c5fc80ababdbd73c9f128c9f?source=copy_link
