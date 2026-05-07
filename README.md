@@ -75,6 +75,10 @@
 </td>
 
 <td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="65" height="65"/><br/>Docker
+</td>
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" height="65"/><br/>Redis
 </td>
 </tr>
@@ -89,6 +93,11 @@
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="65" height="65"/><br/>GitLab
 </td>
+
+  <td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="65" height="65"/><br/>Jira
+</td>
+
 </tr>
 </table>
 
