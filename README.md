@@ -97,6 +97,21 @@
 <hr/>
 
 <h2 align="center">🧩 Projects</h2>
+<h3>🤖 RoboFlow : AI 비전 기반 전자 부품 자동 검사 및 분류 시스템</h3>
+
+> 전자 부품 검사 과정에서 발생하는 작업자 피로, 검사 편차, 생산성 저하 문제를 해결하기 위해 기획한 스마트 팩토리 시스템입니다.<br/>
+> 초음파 센서, 카메라, AI 비전 검사를 활용해 제품 감지부터 품질 판정까지 자동화했습니다.<br/>
+> MQTT / HTTP 기반 IoT 하이브리드 통신 구조를 설계하여 장치 간 데이터 흐름을 구축했습니다.<br/>
+> 센서 입력 기반 모터 제어, 카메라 촬영 요청, 분류기 작동 등 자동화 공정 제어 로직을 개발했습니다.<br/>
+> AI 객체 탐지, 로봇팔, AGV를 연동하여 제품 집기 및 이송 과정을 구현했습니다.<br/>
+
+- **개발 기간** : 2025.10 ~ 2025.11
+- **기술 스택** : C++, Python, Raspberry Pi, Arduino, MQTT, Mosquitto, HTTP, Docker
+- **역할** : IoT 통신 아키텍처 설계 및 임베디드 제어 로직 개발
+- **협업 인원 및 기여도** : 6명 / 30%
+- [👉 프로젝트 발표자료 바로가기](https://drive.google.com/file/d/1mCmvZZQiSXJ3sW2F-On__JL8-ew2C9Mj/view?usp=sharing)
+- [👉 시연 영상 보기](https://www.youtube.com/watch?v=5s3s2IyodoI)
+<br/><br/><br/>
 
 <h3>💰 키득키득 : 부모 자녀간 용돈 관리 및 자녀의 경제관념 확립 모바일 애플리케이션</h3>
 
