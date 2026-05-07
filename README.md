@@ -94,8 +94,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="65" height="65"/><br/>GitLab
 </td>
 
-  <td align="center">
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="65" height="65"/><br/>Jira
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="65" height="65"/><br/>Postman
 </td>
 
 </tr>
